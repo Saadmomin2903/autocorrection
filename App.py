@@ -62,4 +62,4 @@ if st.button("Correct"):
             st.info("No spelling issues found!")
 
 st.markdown("---")
-st.caption("Created by [Sahil]")
+
